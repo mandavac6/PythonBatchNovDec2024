@@ -56,4 +56,24 @@ To create a new branch
 
     git checkout -b <branchname>
 
+## Course Completed
+
+[Class recording drive folder Link](https://drive.google.com/drive/folders/1nz25v0dUyiwZf2bAFQ9OPtmbH3rCpu9E)
+
+[Class 00 Nov 4th 2024]()
+    
+    Dev Setup
+    Installing IDE/Editor
+    Installing Python and local setup
+    Github access, creating project
+
+[Class01 Nov 6th 2024]()
+
+    Git Commands
+    markdown syntax
+    Daily activity and usage 
+    Importance of python
+    two versions of python (2.x & 3.x)
+    comment Operator  
+
 
