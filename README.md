@@ -10,6 +10,10 @@ to get the status of the repo
 
     git status
 
+to list Branches
+
+    git branch 
+
 To create a new branch 
 
     git checkout -b <branchname>
@@ -33,3 +37,23 @@ to push the latest code to main branch
 to check the changes in the exsisting file 
 
     git diff <filename>
+
+### Daily Commands
+
+to get the status of the repo 
+
+    git status
+
+To checkout to the main branch 
+
+    git checkout main
+
+To pull the latest code from main branch
+
+    git pull origin <branchname>
+
+To create a new branch
+
+    git checkout -b <branchname>
+
+
