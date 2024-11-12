@@ -73,7 +73,22 @@ To create a new branch
     markdown syntax
     Daily activity and usage 
     Importance of python
-    two versions of python (2.x & 3.x)
-    comment Operator  
+    two versions of python (2.x & 3.x) 
+
+[Class02 Nov 11th 2024]()
+
+    PEP 8 Guidelines (https://peps.python.org/pep-0008/)
+    shebang line
+    Indendation issues and best practices
+    Built-in Functions
+    Print functions 
+    Scriptmode vs interactive mode 
+    Jupyter notebook usage 
+    Ascii and Unicade Characters 
 
 
+## Next Class 
+
+    Comment Operator 
+    Keyword and Identifiers 
+    Line continution and statement seperator operators 
