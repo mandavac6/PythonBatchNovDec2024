@@ -1,0 +1,17 @@
+variable
+    keyword  -- variables defined by the language
+    identifiers  --- variables defined by user
+                    or, user-defined variables
+
+Reserved Keywords (35 in python 3.x)
+____________________________________
+
+False       def         if          raise
+None        del	        import	    return
+True        elif	    in	        try
+and         else	    is	        while
+as	        except	    lambda	    with
+assert	    finally	    nonlocal	yield
+break	    for	        not	        continue
+class	    from	    or	        global
+pass

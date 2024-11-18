@@ -86,9 +86,19 @@ To create a new branch
     Jupyter notebook usage 
     Ascii and Unicade Characters 
 
-
-## Next Class 
-
+[Class03 Nov 13th 2024]()
+    
     Comment Operator 
     Keyword and Identifiers 
-    Line continution and statement seperator operators 
+    Line continution and statement seperator operators
+    02.Basics
+        Arthematic Operations 
+        +, -, *, /, //, %, 
+        divmod()
+        pow()
+        compound operators
+
+        
+## Next Class 
+
+  
