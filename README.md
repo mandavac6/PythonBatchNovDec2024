@@ -98,7 +98,13 @@ To create a new branch
         pow()
         compound operators
 
-        
+[Class04 Nov 15th 2024]()
+
+    Practical Problem solving
+    working with complex numbers
+    abs() function
+    Operator precedence in Arithmetic operations
+    
 ## Next Class 
 
   
