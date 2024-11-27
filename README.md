@@ -104,6 +104,13 @@ To create a new branch
     working with complex numbers
     abs() function
     Operator precedence in Arithmetic operations
+
+[Class05 Nov 20th 2024]()
+
+    String operations
+    Usage of single, double and triple quotes
+    len() function
+    Indexing and Slicing Strings
     
 ## Next Class 
 
