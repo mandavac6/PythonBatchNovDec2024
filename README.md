@@ -112,6 +112,15 @@ To create a new branch
     len() function
     Indexing and Slicing Strings
     
+
+
+[Class06 Nov 22th 2024]()
+
+    string attributes
+    String formatting: old & new styles, f-strings
+    bytearray() and byte() strings
+    unicode strings
+
 ## Next Class 
 
   
