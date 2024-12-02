@@ -116,11 +116,13 @@ To create a new branch
 
 [Class06 Nov 22th 2024]()
 
-    string attributes
+    String attributes
     
+
+[Class07 Nov 25th 2024]()
+
+    String attributes
 
 ## Next Class 
 
-    String formatting: old & new styles, f-strings
-    bytearray() and byte() strings
-    unicode strings
+    
