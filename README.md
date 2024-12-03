@@ -123,6 +123,11 @@ To create a new branch
 
     String attributes
 
+[Class08 Nov 27th 2024]()
+
+    String formatting: old & new styles, f-strings
+    unicode strings
+
 ## Next Class 
 
     
