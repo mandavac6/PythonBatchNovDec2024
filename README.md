@@ -127,6 +127,16 @@ To create a new branch
 
     String formatting: old & new styles, f-strings
     unicode strings
+    
+[Class09 Nov 29th 2024]()
+
+    bytearray() and byte() strings
+    Usage of help
+    Usage of pydoc
+
+    03.Language Components
+        Relational Operations
+        Logical Operations
 
 ## Next Class 
 
