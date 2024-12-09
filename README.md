@@ -138,6 +138,15 @@ To create a new branch
         Relational Operations
         Logical Operations
 
+[Class10 Dec 2nd 2024]()
+
+    Logical Operations
+    Boolean Operations
+    Bitwise Operations
+    Identity Operations
+    Dual Memory management Strategy
+    range() function
+    Conditional Operations
 ## Next Class 
 
     
