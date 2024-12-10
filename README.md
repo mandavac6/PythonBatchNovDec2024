@@ -147,6 +147,13 @@ To create a new branch
     Dual Memory management Strategy
     range() function
     Conditional Operations
+
+[Class11 Dec 4nd 2024]()
+
+    Structural Pattern Matching
+    Loops: for & while, break, continue, pass, sys.exit
+    Assignments
+    
 ## Next Class 
 
     
