@@ -148,11 +148,26 @@ To create a new branch
     range() function
     Conditional Operations
 
-[Class11 Dec 4nd 2024]()
+[Class11 Dec 4th 2024]()
 
     Structural Pattern Matching
     Loops: for & while, break, continue, pass, sys.exit
     Assignments
+
+[Class12 Dec 6th 2024]()
+
+    Walrus Operator
+
+    04.Exception Handling
+        Exceptions Hierarchy
+        Different types of errors, error vs exception and exception groups
+        Handling single and multiple exceptions
+        raising exceptions
+        asserts
+        traceback
+        exception Groups
+        warnings
+
     
 ## Next Class 
 
