@@ -168,6 +168,17 @@ To create a new branch
         exception Groups
         warnings
 
+
+[Class13 Dec 9th 2024]()
+
+    05.Debugging
+        Importance of logical errors
+        Debugging with pydevd
+        Debugging with pdb, ipdb
+        breakpoint() function
+        PYTHONBREAKPOINT environment variable usage
+        post analyses of executed script
+
     
 ## Next Class 
 
