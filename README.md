@@ -179,6 +179,11 @@ To create a new branch
         PYTHONBREAKPOINT environment variable usage
         post analyses of executed script
 
+[Class14 Dec 10th 2024]()
+
+    06.Collections
+        Lists
+
     
 ## Next Class 
 
