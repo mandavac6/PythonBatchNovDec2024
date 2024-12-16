@@ -184,7 +184,15 @@ To create a new branch
     06.Collections
         Lists
 
-    
+[Class15 Dec 11th 2024]()
+
+    Copy Problem - shallow copy vs deepcopy
+    Tuples & namedtuples
+    Immutability & unpacking
+    Sets
+        attributes, operations
+
+        
 ## Next Class 
 
     
