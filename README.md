@@ -192,7 +192,16 @@ To create a new branch
     Sets
         attributes, operations
 
-        
+[Class16 Dec 12th 2024]()
+
+    fronzensets
+    Dictionaries
+        zip() function
+        workaround for switch case
+    Comprehensions
+    Working with Iterables - sum(), max(), min()
+
+
 ## Next Class 
 
     
