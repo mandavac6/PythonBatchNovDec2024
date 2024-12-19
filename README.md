@@ -192,7 +192,7 @@ To create a new branch
     Sets
         attributes, operations
 
-[Class16 Dec 12th 2024]()
+[Class16 Dec 13th 2024]()
 
     fronzensets
     Dictionaries
@@ -201,6 +201,17 @@ To create a new branch
     Comprehensions
     Working with Iterables - sum(), max(), min()
 
+[Class17 Dec 16th 2024]()
+
+    07.Functions
+    Functions with & without arguments, keyword arguments
+    Functions with Different return types and unpacking
+    Functions with with Default arguments
+    variadic functions : variable arguments and variable keyword arguments
+    Functions with keyword only arguments
+    Scoping: Global vs Local
+        call by reference
+        call by value
 
 ## Next Class 
 
