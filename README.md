@@ -213,6 +213,13 @@ To create a new branch
         call by reference
         call by value
 
+[Class18 Dec 17th 2024]()
+
+    Partial Functions
+    Anonymous(Lambda) Functions
+    Higher order functions: map(), filter(), functool.reduce()
+    Recursions and recursions limit
+
 ## Next Class 
 
     
