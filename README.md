@@ -220,6 +220,22 @@ To create a new branch
     Higher order functions: map(), filter(), functool.reduce()
     Recursions and recursions limit
 
+
+[Class19 Dec 18th 2024]()
+
+    inner functions
+    closures
+
+    08.Decorator Design Pattern
+    Necessity
+    function Decorator
+    Practical Examples
+    syntactic sugar for decorators
+    multiple decorators on same function
+    decorators with arguments
+    functools - wrap, lru_cache
+    class decorator
+
 ## Next Class 
 
     
