@@ -246,6 +246,13 @@ To create a new branch
         iter() protocol
         itertools module
 
+[Class21 Dec 20th 2024]()
+        Generators
+        yield vs return
+        function vs Generator
+        Generator pipelining
+        Generator Expression
+
 ## Next Class 
 
     
