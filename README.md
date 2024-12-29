@@ -56,6 +56,36 @@ To create a new branch
 
     git checkout -b <branchname>
 
+## Virtual Environment
+
+    Isolated environment 
+
+    why needed
+        - same system, multiple projects
+            - different python versions 
+            - same python verison, but differenet module versions
+
+    How to create Virtual Environment 
+        - Virtualenv
+        - venv
+        - pipenv
+        - poetry 
+        - uv
+
+    Using Virtualenv
+        
+        Install
+            pip install virtualenv
+        
+        create virtual environment
+            python -m virtualenv .venv
+        
+        activate virtual environment
+            linux
+                source .venv/bin/activate
+
+            windows
+                .venv/script/activate
 ## Course Completed
 
 [Class recording drive folder Link](https://drive.google.com/drive/folders/1nz25v0dUyiwZf2bAFQ9OPtmbH3rCpu9E)
@@ -247,11 +277,22 @@ To create a new branch
         itertools module
 
 [Class21 Dec 20th 2024]()
-        Generators
-        yield vs return
-        function vs Generator
-        Generator pipelining
-        Generator Expression
+
+    Generators
+    yield vs return
+    function vs Generator
+    Generator pipelining
+    Generator Expression
+
+[Class21 Dec 20th 2024]()
+
+    Coroutine
+    Generator vs Coroutine
+    coroutine pipelining
+
+    10.Modules
+        Basic Modules
+        - math, sys, argparse
 
 ## Next Class 
 
