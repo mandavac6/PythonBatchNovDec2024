@@ -284,7 +284,7 @@ To create a new branch
     Generator pipelining
     Generator Expression
 
-[Class21 Dec 20th 2024]()
+[Class22 Dec 23rd 2024]()
 
     Coroutine
     Generator vs Coroutine
@@ -293,6 +293,10 @@ To create a new branch
     10.Modules
         Basic Modules
         - math, sys, argparse
+
+[Class23 Dec 24th 2024]()
+
+    os, shutil, pathlib
 
 ## Next Class 
 
