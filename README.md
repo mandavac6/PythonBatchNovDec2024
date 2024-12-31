@@ -298,6 +298,14 @@ To create a new branch
 
     os, shutil, pathlib
 
+[Class24 Dec 26th 2024]()
+
+    shutil, subprocess, getpass
+    time related
+        - time, datetime, pytz, timeit, calendar
+    others
+        - random, collections, atexit, contextlib, base64
+
 ## Next Class 
 
     
