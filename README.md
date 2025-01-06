@@ -306,6 +306,20 @@ To create a new branch
     others
         - random, collections, atexit, contextlib, base64
 
+[Class25 Dec 27th 2024]()
+
+    create user-defined module
+    creating user-defined package
+
+    packaging
+    creating the wheel files, tar files
+    publishing with twine
+    egg files
+
+    11.File Operations
+    flat files
+
+
 ## Next Class 
 
     
