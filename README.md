@@ -320,6 +320,14 @@ To create a new branch
     flat files
 
 
+[Class26 Dec 30th 2024]()
+
+    Non-flat files
+    pickle 
+    shelve 
+    xml 
+    csv
+
 ## Next Class 
 
     
