@@ -1,5 +1,21 @@
 # PythonBatchNovDec2024
 
+## Local setup in windows
+
+    Install 
+
+    git for windows
+
+    Visual Studio code
+
+    python
+        microsoft store -- python3 (version)
+
+
+    git clone https://github.com/mandavac6/PythonBatchNovDec2024.git
+
+    first time you need to pass the credentials, when running
+
 ## Git Commands 
 
 To clone the Repo to Local 
@@ -86,6 +102,17 @@ To create a new branch
 
             windows
                 .venv/script/activate
+
+    Using Poetry
+    pip install -U pip
+    pip install poetry
+    python -m poetry init
+    python -m poetry shell
+
+    pip install poetry
+    poetry add pandas 
+
+
 ## Course Completed
 
 [Class recording drive folder Link](https://drive.google.com/drive/folders/1nz25v0dUyiwZf2bAFQ9OPtmbH3rCpu9E)
@@ -327,6 +354,16 @@ To create a new branch
     shelve 
     xml 
     csv
+
+[Class27 Jan 02nd 2025]()
+
+    windows local setup
+    poetry installation
+    Troubleshooting experince
+    csv
+    dat
+    tsv
+
 
 ## Next Class 
 
