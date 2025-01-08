@@ -364,6 +364,16 @@ To create a new branch
     dat
     tsv
 
+[Class28 Jan 06th 2025]()
+
+    11.Logging
+        Simple logging
+        configuring log file
+        formatting logs and adding timestamp
+        working with file handler and stream hanlder
+        configuring multiple handlers
+        color logging
+        Rotating logger
 
 ## Next Class 
 
