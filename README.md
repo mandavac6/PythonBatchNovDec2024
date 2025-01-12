@@ -375,6 +375,22 @@ To create a new branch
         color logging
         Rotating logger
 
+[Class29 Jan 08th 2025]()
+
+    13. Regular Expressions
+        re module
+        compiling regex objects
+        match & search
+        find & finditer
+        regex Flags
+        Greedy & Non-Greedy patterns
+        findall & finditer
+        sub and subn
+        regex Flags
+        groups and groupdicts
+        Pearl-style regexes
+        Realworld Problem (log analyses, email Validation, etc)
+
 ## Next Class 
 
     
