@@ -401,6 +401,20 @@ To create a new branch
         instance and class variables
         Encapsulation
 
+[Class30 Jan 10th 2025]()
+
+    MRO, Single and multiple inheritance, composition
+    Method Overwriting, Operator Overloading
+    instance, class and static methods
+    property decorator
+    Dunder(magic) methods
+    reprlib module
+    creating context manager class
+    
+
 ## Next Class 
+
+    Dataclasses
+    Abstract Classes
 
     
